@@ -1,6 +1,6 @@
 # Hunting-Horn-Player
 
-Very simple Discord music player bot made with discord.py, with Munster Hunter quirks. Do not recommend adding additional functionalities to this bot without organizing the existing music bot functionality into a cog.
+Very simple Discord music player bot made with discord.py, with Munster Hunter quirks. Do not recommend adding additional functionalities to this bot without organizing the existing music bot functionality into a cog, as this was made with just the music bot in mind, and uses some messy global variables to accomplish certain tasks.
 
 Python 3; youtube_dl and discord.py with audio extension libraries required. FFmpeg also needs to be downloaded and added to path: https://www.ffmpeg.org/
 
