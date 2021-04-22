@@ -2,7 +2,7 @@
 
 Very simple Discord music player bot made with discord.py, with Munster Hunter quirks. 
 
-python 3 and youtube_dl library required. FFmpeg also needs to be downloaded and added to path: https://www.ffmpeg.org/
+python 3, youtube_dl and discord.py with audio extension libraries required. FFmpeg also needs to be downloaded and added to path: https://www.ffmpeg.org/
 
   - clear :      clears queue
   - current :    dispalys current song
